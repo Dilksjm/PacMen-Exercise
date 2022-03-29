@@ -4,6 +4,9 @@ This is a project where I was challenged to move any number of PacMen back and f
 <img src="PacMan1.png">
 
 
+## How To Use:
+In the top left corner you will see two buttons once the webpage has loaded. Once button will increase the number of PacMen you see on the screen. The other will move the PacMen throughout the webpage at different speeds. Once the PacMen hit a boundary wall they will bounce in the opoosite direction. 
+
 # Licensing Information
 
 MIT License
